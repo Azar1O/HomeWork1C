@@ -1,0 +1,15 @@
+C:\Education\Homework1C\task4\bin\Debug\net7.0\task4.exe
+C:\Education\Homework1C\task4\bin\Debug\net7.0\task4.deps.json
+C:\Education\Homework1C\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+C:\Education\Homework1C\task4\bin\Debug\net7.0\task4.dll
+C:\Education\Homework1C\task4\bin\Debug\net7.0\task4.pdb
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.dll
+C:\Education\Homework1C\task4\obj\Debug\net7.0\refint\task4.dll
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.pdb
+C:\Education\Homework1C\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+C:\Education\Homework1C\task4\obj\Debug\net7.0\ref\task4.dll
