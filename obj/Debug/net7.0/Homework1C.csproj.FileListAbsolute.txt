@@ -1,0 +1,15 @@
+C:\Education\Homework1C\bin\Debug\net7.0\Homework1C.exe
+C:\Education\Homework1C\bin\Debug\net7.0\Homework1C.deps.json
+C:\Education\Homework1C\bin\Debug\net7.0\Homework1C.runtimeconfig.json
+C:\Education\Homework1C\bin\Debug\net7.0\Homework1C.dll
+C:\Education\Homework1C\bin\Debug\net7.0\Homework1C.pdb
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.csproj.AssemblyReference.cache
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.AssemblyInfoInputs.cache
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.AssemblyInfo.cs
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.csproj.CoreCompileInputs.cache
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.dll
+C:\Education\Homework1C\obj\Debug\net7.0\refint\Homework1C.dll
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.pdb
+C:\Education\Homework1C\obj\Debug\net7.0\Homework1C.genruntimeconfig.cache
+C:\Education\Homework1C\obj\Debug\net7.0\ref\Homework1C.dll
